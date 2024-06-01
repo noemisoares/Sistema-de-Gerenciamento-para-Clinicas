@@ -27,8 +27,10 @@ O Sistema de Gerenciamento de Clínica (SGC) é um sistema desenvolvido para ger
 A principal motivação para o desenvolvimento do SGC é facilitar o fluxo de atendimento de uma clínica particular e tornar os serviços mais acessíveis aos pacientes. O sistema visa economizar tempo e recursos, permitindo que a clínica redirecione investimentos para áreas mais avançadas e tecnológicas, garantindo um atendimento de alta qualidade.
 
 ## Diagrama de Casos de Uso
-
-*ponha a imagem aqui*
+O diagrama de casos de uso do Sistema de Gerenciamento para Clínicas (SGC) ilustra as interações principais entre os pacientes e o sistema. Os pacientes podem fazer login, cadastrar-se, acessar o agendamento de consultas e selecionar informações pessoais. Eles também podem escolher serviços específicos como marcar consultas, agendar exames, consultar seu histórico médico e visualizar resultados de exames. Além disso, o sistema possui funcionalidades administrativas para gerenciar serviços oferecidos, cadastros de pacientes e horários disponíveis para consultas e exames. As relações de inclusão e extensão entre os casos de uso indicam como funcionalidades adicionais são acessadas e integradas ao fluxo principal de operações do sistema.
+<div align="center">
+    <img alt="Diagrama Casos de Uso (SGC)" width="900px" height="600px" src="Diagrama_Casos_de_Uso_SGC.jpg"/>
+</div>
 
 ## Protótipo de Baixa Fidelidade
 
