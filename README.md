@@ -9,7 +9,7 @@ Este projeto foi desenvolvido como parte do curso de Ciências da Computação d
 - Noemi Soares
 
 ## Descrição Textual do Sistema
-O Sistema de Gerenciamento de Clínica (SGC) é um sistema desenvolvido para gerenciar as atividades de uma clínica médica particular que oferece aos usuários uma interface simplificada. O objetivo principal é facilitar o fluxo de atendimento e tornar os serviços da clínica mais acessíveis aos pacientes. O sistema oferece as seguintes funcionalidades:
+O Sistema de Gerenciamento para Clínicas (SGC) é um sistema desenvolvido para gerenciar as atividades de uma clínica médica particular que oferece aos usuários uma interface simplificada. O objetivo principal é facilitar o fluxo de atendimento e tornar os serviços da clínica mais acessíveis aos pacientes. O sistema oferece as seguintes funcionalidades:
 
 1. Criar cadastros e atualizá-los quando necessário;
 2. Agendar consultas e exames médicos de uma determinada especialidade;
@@ -33,8 +33,10 @@ O diagrama de casos de uso do Sistema de Gerenciamento para Clínicas (SGC) ilus
 </div>
 
 ## Protótipo de Baixa Fidelidade
-
-*ponha a imagem aqui*
+O protótipo de baixa fidelidade do Sistema de Gerenciamento para Clínicas (SGC) apresenta as principais telas da aplicação, destacando as funcionalidades essenciais. Inclui telas de login, cadastro, agendamento de consultas e exames, histórico de consultas, resultados de exames, feedbacks e central de dúvidas. Cada tela é esboçada de forma simples para validar o fluxo de interação e usabilidade antes do desenvolvimento detalhado. Este protótipo serve como uma visualização preliminar para coletar feedbacks iniciais e orientar melhorias futuras.
+<div align="center">
+    <img alt="Diagrama Casos de Uso (SGC)" width="2000px" height="400px" src="Prototipo_de_Baixa_Fidelidade_SGC.jpg"/>
+</div>
 
 ## Histórias de Usuário
 
