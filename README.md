@@ -1,3 +1,11 @@
+<p align="center">
+  <strong>
+    Português
+    &nbsp;|&nbsp;
+    <a href="./README.en.md">English</a>
+  </strong>
+</p>
+
 # Sistema de Gerenciamento para Clínicas (SGC)
 
 Este projeto foi desenvolvido como parte do curso de Ciências da Computação da Universidade Católica de Pernambuco para a disciplina de Processos e Requisitos de Software. O objetivo é aplicar os conhecimentos adquiridos na criação de um sistema de gerenciamento de atividades.
@@ -29,24 +37,26 @@ A principal motivação para o desenvolvimento do SGC é facilitar o fluxo de at
 ## Diagrama de Casos de Uso
 O diagrama de casos de uso do Sistema de Gerenciamento para Clínicas (SGC) ilustra as interações principais entre os pacientes e o sistema. Os pacientes podem fazer login, cadastrar-se, acessar o agendamento de consultas e selecionar informações pessoais. Eles também podem escolher serviços específicos como marcar consultas, agendar exames, consultar seu histórico médico e visualizar resultados de exames. Além disso, o sistema possui funcionalidades administrativas para gerenciar serviços oferecidos, cadastros de pacientes e horários disponíveis para consultas e exames. As relações de inclusão e extensão entre os casos de uso indicam como funcionalidades adicionais são acessadas e integradas ao fluxo principal de operações do sistema.
 <div align="center">
-    <img alt="Diagrama Casos de Uso (SGC)" width="900px" height="600px" src="Diagrama_Casos_de_Uso_SGC.jpg"/>
+    <img alt="Diagrama Casos de Uso (SGC)" width="900px" height="600px"
+         src="docs/images/Diagrama_Casos_de_Uso_SGC.jpg"/>
 </div>
 
 ## Protótipo de Baixa Fidelidade
 O protótipo de baixa fidelidade do Sistema de Gerenciamento para Clínicas (SGC) apresenta as principais telas da aplicação, destacando as funcionalidades essenciais. Inclui telas de login, cadastro, agendamento de consultas e exames, histórico de consultas, resultados de exames, feedbacks e central de dúvidas. Cada tela é esboçada de forma simples para validar o fluxo de interação e usabilidade antes do desenvolvimento detalhado. Este protótipo serve como uma visualização preliminar para coletar feedbacks iniciais e orientar melhorias futuras.
 <div align="center">
-    <img alt="Protótipo de Baixa Fidelidade" width="2000px" height="400px" src="Prototipo_de_Baixa_Fidelidade_SGC.jpg"/>
+    <img alt="Protótipo de Baixa Fidelidade" width="2000px" height="400px"
+         src="docs/images/Prototipo_de_Baixa_Fidelidade_SGC.jpg"/>
 </div>
 <div align="center">
-    <img align="center" alt="Protótipo de Baixa Fidelidade" width="250px" height="600px" src="tela_login.jpeg"/>
-    <img align="center" alt="Protótipo de Baixa Fidelidade" width="250px" height="600px" src="tela_inicial.jpeg"/>
-     <img align="center" alt="Protótipo de Baixa Fidelidade" width="250px" height="600px" src="tela_agendar_consultas.jpeg"/>
-    <img align="center" alt="Protótipo de Baixa Fidelidade" width="250px" height="600px" src="tela_agendar_exames.jpeg"/>
-    <img align="center" alt="Protótipo de Baixa Fidelidade" width="250px" height="600px" src="tela_cadastro.jpeg"/>
-    <img align="center" alt="Protótipo de Baixa Fidelidade" width="250px" height="600px" src="tela_resultados.jpeg"/> 
-    <img align="center" alt="Protótipo de Baixa Fidelidade" width="250px" height="600px" src="tela_feedbacks.jpeg"/>
-    <img align="center" alt="Protótipo de Baixa Fidelidade" width="250px" height="600px" src="tela_historico.jpeg"/>
-    <img align="center" alt="Protótipo de Baixa Fidelidade" width="250px" height="600px" src="tela_central_duvidas.jpeg"/> 
+    <img width="250px" height="600px" src="docs/images/tela_login.jpeg"/>
+    <img width="250px" height="600px" src="docs/images/tela_inicial.jpeg"/>
+    <img width="250px" height="600px" src="docs/images/tela_agendar_consultas.jpeg"/>
+    <img width="250px" height="600px" src="docs/images/tela_agendar_exames.jpeg"/>
+    <img width="250px" height="600px" src="docs/images/tela_cadastro.jpeg"/>
+    <img width="250px" height="600px" src="docs/images/tela_resultados.jpeg"/>
+    <img width="250px" height="600px" src="docs/images/tela_feedbacks.jpeg"/>
+    <img width="250px" height="600px" src="docs/images/tela_historico.jpeg"/>
+    <img width="250px" height="600px" src="docs/images/tela_central_duvidas.jpeg"/>
 </div>
 
 ## Histórias de Usuário
